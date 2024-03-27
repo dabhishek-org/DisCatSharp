@@ -1,0 +1,516 @@
+repo_name: dabhishek-org/DisCatSharp
+report_id: c53860a3f5aaa223f3fdca00c4dbc3b8
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-27T14:24:43+00:00'
+requested_by: renovate[bot]
+provider: github
+branch: main
+detected_tools_count: 38
+tools:
+- name: ASP.NET
+  description: An open source web framework for building modern web apps and services
+    with .NET
+  website_url: https://www.asp.net/
+  version: 4.7.2
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Tools/DisCatSharp.Analytics.VSIX/DisCatSharp.Analyzer.VSIX.csproj
+  detection_source: DisCatSharp.Tools/DisCatSharp.Analytics.VSIX/DisCatSharp.Analyzer.VSIX.csproj
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2022-11-21 07:30:03.000000000 Z
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  version: 5.1.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  version: 4.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Tools/DisCatSharp.Analytics.VSIX/DisCatSharp.Analyzer.VSIX.csproj
+  detection_source: DisCatSharp.Tools/DisCatSharp.Analytics.VSIX/DisCatSharp.Analyzer.VSIX.csproj
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2022-11-21 07:30:03.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 5.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/.github/workflows/build.yml
+  detection_source: ".github/workflows/build.yml"
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-06 23:18:13.000000000 Z
+- name: Istio
+  description: Open platform to connect, manage, and secure microservices, by Google,
+    IBM, and Lyft
+  website_url: https://istio.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Microservices Tools
+  image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/ext-xrefmap.yml
+  detection_source: DisCatSharp.Docs/ext-xrefmap.yml
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 29.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Tests/SafetyTests/DisCatSharp.SafetyTests.csproj
+  detection_source: DisCatSharp.Tests/SafetyTests/DisCatSharp.SafetyTests.csproj
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-07-05 02:51:04.000000000 Z
+- name: Stylelint
+  description: A mighty, modern CSS linter
+  website_url: http://stylelint.io/
+  version: 15.10.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: highlight.js
+  description: Syntax highlighter in JavaScript
+  website_url: https://highlightjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: xUnit
+  description: An open source, community-focused unit testing tool
+  website_url: http://xunit.github.io/
+  version: 2.7.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Tests/DisCatSharp.ApplicationCommands.Tests/DisCatSharp.ApplicationCommands.Tests.csproj
+  detection_source: DisCatSharp.Tests/DisCatSharp.ApplicationCommands.Tests/DisCatSharp.ApplicationCommands.Tests.csproj
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-12-23 16:30:40.000000000 Z
+- name: MathJax
+  description: Cross-browser JavaScript library that displays mathematical notation
+  website_url: https://www.mathjax.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2832/favicon_400x400.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp
+  detection_source: Repo Metadata
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 29.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: "@types/jquery"
+  description: TypeScript definitions for jQuery
+  package_url: https://www.npmjs.com/@types/jquery
+  version: 3.5.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16363/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 20.4.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 6.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 6.4.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: browser-sync
+  description: Live CSS Reload &amp; Browser Syncing
+  package_url: https://www.npmjs.com/browser-sync
+  version: 2.29.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16034/default_a9b6ac3c2fe43713f9a8e43d4668d0352ad0d247.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: eslint-config-standard
+  description: JavaScript Standard Style - ESLint Shareable Config
+  package_url: https://www.npmjs.com/eslint-config-standard
+  version: 17.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: lit-html
+  description: HTML template literals in JavaScript
+  package_url: https://www.npmjs.com/lit-html
+  version: 2.8.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17301/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: lunr
+  description: Simple full-text search in your browser
+  package_url: https://www.npmjs.com/lunr
+  version: 2.3.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18488/default_0f684fdba52879fd48ceb8876e4283627899355a.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 29.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 17.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Docs/package.json
+  detection_source: DisCatSharp.Docs/package.json
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-08-26 19:05:37.000000000 Z
+- name: FluentAssertions
+  description: A very extensive set of extension methods that allow you to more naturally
+    specify the expected outcome of a TDD or BDD-style unit tests
+  package_url: https://www.nuget.org/FluentAssertions
+  version: 6.12.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13059/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Tests/SafetyTests/DisCatSharp.SafetyTests.csproj
+  detection_source: DisCatSharp.Tests/SafetyTests/DisCatSharp.SafetyTests.csproj
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2023-12-24 14:09:49.000000000 Z
+- name: Microsoft.CodeAnalysis.CSharp
+  description: ".NET Compiler Platform"
+  package_url: https://www.nuget.org/Microsoft.CodeAnalysis.CSharp
+  version: 4.9.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12967/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Tests/SafetyTests/DisCatSharp.SafetyTests.csproj
+  detection_source: DisCatSharp.Tests/SafetyTests/DisCatSharp.SafetyTests.csproj
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2024-03-04 09:01:46.000000000 Z
+- name: Microsoft.CodeAnalysis.CSharp.Scripting
+  description: Microsoft .NET Compiler Platform
+  package_url: https://www.nuget.org/Microsoft.CodeAnalysis.CSharp.Scripting
+  version: 4.9.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13259/default_0e6336285a2ac0713cff413264705f5aa2f348a1.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Tests/SafetyTests/DisCatSharp.SafetyTests.csproj
+  detection_source: DisCatSharp.Tests/SafetyTests/DisCatSharp.SafetyTests.csproj
+  last_updated_by: Lala Sabathil
+  last_updated_on: 2024-03-04 09:01:46.000000000 Z
+- name: Microsoft.Extensions.Configuration
+  description: Implementation of key-value pair based configuration for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration
+  version: 8.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12856/default_0f5233770e71818507f2339042e7e61bef904e70.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Tests/DisCatSharp.Configuration.Tests/DisCatSharp.Configuration.Tests.csproj
+  detection_source: DisCatSharp.Tests/DisCatSharp.Configuration.Tests/DisCatSharp.Configuration.Tests.csproj
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-21 15:16:27.000000000 Z
+- name: Microsoft.Extensions.Configuration.Json
+  description: JSON configuration provider implementation for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.Json
+  version: 8.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12865/default_4ea11141d2970a66e9637b71cf054ab66968c217.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Tests/DisCatSharp.Configuration.Tests/DisCatSharp.Configuration.Tests.csproj
+  detection_source: DisCatSharp.Tests/DisCatSharp.Configuration.Tests/DisCatSharp.Configuration.Tests.csproj
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-21 15:16:27.000000000 Z
+- name: xunit.runner.visualstudio
+  description: Visual Studio 2012+ Test Explorer runner for the xUnit.net framework
+  package_url: https://www.nuget.org/xunit.runner.visualstudio
+  version: 2.5.7
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
+  detection_source_url: https://github.com/dabhishek-org/DisCatSharp/blob/main/DisCatSharp.Tests/DisCatSharp.ApplicationCommands.Tests/DisCatSharp.ApplicationCommands.Tests.csproj
+  detection_source: DisCatSharp.Tests/DisCatSharp.ApplicationCommands.Tests/DisCatSharp.ApplicationCommands.Tests.csproj
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-16 15:11:36.000000000 Z
